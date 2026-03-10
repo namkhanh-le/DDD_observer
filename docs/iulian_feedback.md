@@ -119,7 +119,7 @@ export function isWithinVisitWindow(window: VisitWindow, current: number): boole
 
 ---
 
-## 🎯 Design Pattern Observations
+## Design Pattern Observations
 
 ### Good Practices 
 1. **Branded Types** - Excellent type safety preventing mixing of primitive types
